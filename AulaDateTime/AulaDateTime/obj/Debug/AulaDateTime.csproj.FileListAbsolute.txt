@@ -1,0 +1,7 @@
+C:\Users\pablo\source\repos\AulaDateTime\AulaDateTime\bin\Debug\AulaDateTime.exe.config
+C:\Users\pablo\source\repos\AulaDateTime\AulaDateTime\bin\Debug\AulaDateTime.exe
+C:\Users\pablo\source\repos\AulaDateTime\AulaDateTime\bin\Debug\AulaDateTime.pdb
+C:\Users\pablo\source\repos\AulaDateTime\AulaDateTime\obj\Debug\AulaDateTime.csprojAssemblyReference.cache
+C:\Users\pablo\source\repos\AulaDateTime\AulaDateTime\obj\Debug\AulaDateTime.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\AulaDateTime\AulaDateTime\obj\Debug\AulaDateTime.exe
+C:\Users\pablo\source\repos\AulaDateTime\AulaDateTime\obj\Debug\AulaDateTime.pdb

@@ -1,0 +1,7 @@
+C:\Users\pablo\source\repos\Properties\Properties\bin\Debug\Properties.exe.config
+C:\Users\pablo\source\repos\Properties\Properties\bin\Debug\Properties.exe
+C:\Users\pablo\source\repos\Properties\Properties\bin\Debug\Properties.pdb
+C:\Users\pablo\source\repos\Properties\Properties\obj\Debug\Properties.csprojAssemblyReference.cache
+C:\Users\pablo\source\repos\Properties\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\Properties\Properties\obj\Debug\Properties.exe
+C:\Users\pablo\source\repos\Properties\Properties\obj\Debug\Properties.pdb

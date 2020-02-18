@@ -1,0 +1,11 @@
+C:\Users\pablo\source\repos\StreamWriterLesson\StreamWriterLesson\bin\Debug\netcoreapp3.1\StreamWriterLesson.exe
+C:\Users\pablo\source\repos\StreamWriterLesson\StreamWriterLesson\bin\Debug\netcoreapp3.1\StreamWriterLesson.deps.json
+C:\Users\pablo\source\repos\StreamWriterLesson\StreamWriterLesson\bin\Debug\netcoreapp3.1\StreamWriterLesson.runtimeconfig.json
+C:\Users\pablo\source\repos\StreamWriterLesson\StreamWriterLesson\bin\Debug\netcoreapp3.1\StreamWriterLesson.runtimeconfig.dev.json
+C:\Users\pablo\source\repos\StreamWriterLesson\StreamWriterLesson\bin\Debug\netcoreapp3.1\StreamWriterLesson.dll
+C:\Users\pablo\source\repos\StreamWriterLesson\StreamWriterLesson\bin\Debug\netcoreapp3.1\StreamWriterLesson.pdb
+C:\Users\pablo\source\repos\StreamWriterLesson\StreamWriterLesson\obj\Debug\netcoreapp3.1\StreamWriterLesson.csprojAssemblyReference.cache
+C:\Users\pablo\source\repos\StreamWriterLesson\StreamWriterLesson\obj\Debug\netcoreapp3.1\StreamWriterLesson.AssemblyInfoInputs.cache
+C:\Users\pablo\source\repos\StreamWriterLesson\StreamWriterLesson\obj\Debug\netcoreapp3.1\StreamWriterLesson.AssemblyInfo.cs
+C:\Users\pablo\source\repos\StreamWriterLesson\StreamWriterLesson\obj\Debug\netcoreapp3.1\StreamWriterLesson.dll
+C:\Users\pablo\source\repos\StreamWriterLesson\StreamWriterLesson\obj\Debug\netcoreapp3.1\StreamWriterLesson.pdb

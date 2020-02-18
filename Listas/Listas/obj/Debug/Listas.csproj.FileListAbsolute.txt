@@ -1,0 +1,7 @@
+C:\Users\pablo\source\repos\Listas\Listas\bin\Debug\Listas.exe.config
+C:\Users\pablo\source\repos\Listas\Listas\bin\Debug\Listas.exe
+C:\Users\pablo\source\repos\Listas\Listas\bin\Debug\Listas.pdb
+C:\Users\pablo\source\repos\Listas\Listas\obj\Debug\Listas.csprojAssemblyReference.cache
+C:\Users\pablo\source\repos\Listas\Listas\obj\Debug\Listas.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\Listas\Listas\obj\Debug\Listas.exe
+C:\Users\pablo\source\repos\Listas\Listas\obj\Debug\Listas.pdb

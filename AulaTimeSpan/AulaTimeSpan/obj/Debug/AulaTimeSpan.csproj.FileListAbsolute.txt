@@ -1,0 +1,7 @@
+C:\Users\pablo\source\repos\AulaTimeSpan\AulaTimeSpan\bin\Debug\AulaTimeSpan.exe.config
+C:\Users\pablo\source\repos\AulaTimeSpan\AulaTimeSpan\bin\Debug\AulaTimeSpan.exe
+C:\Users\pablo\source\repos\AulaTimeSpan\AulaTimeSpan\bin\Debug\AulaTimeSpan.pdb
+C:\Users\pablo\source\repos\AulaTimeSpan\AulaTimeSpan\obj\Debug\AulaTimeSpan.csprojAssemblyReference.cache
+C:\Users\pablo\source\repos\AulaTimeSpan\AulaTimeSpan\obj\Debug\AulaTimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\AulaTimeSpan\AulaTimeSpan\obj\Debug\AulaTimeSpan.exe
+C:\Users\pablo\source\repos\AulaTimeSpan\AulaTimeSpan\obj\Debug\AulaTimeSpan.pdb

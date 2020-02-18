@@ -1,0 +1,11 @@
+C:\Users\pablo\source\repos\Params\bin\Debug\netcoreapp2.1\Params.deps.json
+C:\Users\pablo\source\repos\Params\bin\Debug\netcoreapp2.1\Params.runtimeconfig.json
+C:\Users\pablo\source\repos\Params\bin\Debug\netcoreapp2.1\Params.runtimeconfig.dev.json
+c:\Users\pablo\source\repos\Params\bin\Debug\netcoreapp2.1\Params.dll
+c:\Users\pablo\source\repos\Params\bin\Debug\netcoreapp2.1\Params.pdb
+c:\Users\pablo\source\repos\Params\obj\Debug\netcoreapp2.1\Params.csprojAssemblyReference.cache
+c:\Users\pablo\source\repos\Params\obj\Debug\netcoreapp2.1\Params.csproj.CoreCompileInputs.cache
+c:\Users\pablo\source\repos\Params\obj\Debug\netcoreapp2.1\Params.AssemblyInfoInputs.cache
+c:\Users\pablo\source\repos\Params\obj\Debug\netcoreapp2.1\Params.AssemblyInfo.cs
+c:\Users\pablo\source\repos\Params\obj\Debug\netcoreapp2.1\Params.dll
+c:\Users\pablo\source\repos\Params\obj\Debug\netcoreapp2.1\Params.pdb

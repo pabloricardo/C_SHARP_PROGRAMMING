@@ -1,0 +1,11 @@
+C:\Users\pablo\source\repos\FileStreamAndStreamReader\FileStreamAndStreamReader\bin\Debug\netcoreapp3.1\FileStreamAndStreamReader.exe
+C:\Users\pablo\source\repos\FileStreamAndStreamReader\FileStreamAndStreamReader\bin\Debug\netcoreapp3.1\FileStreamAndStreamReader.deps.json
+C:\Users\pablo\source\repos\FileStreamAndStreamReader\FileStreamAndStreamReader\bin\Debug\netcoreapp3.1\FileStreamAndStreamReader.runtimeconfig.json
+C:\Users\pablo\source\repos\FileStreamAndStreamReader\FileStreamAndStreamReader\bin\Debug\netcoreapp3.1\FileStreamAndStreamReader.runtimeconfig.dev.json
+C:\Users\pablo\source\repos\FileStreamAndStreamReader\FileStreamAndStreamReader\bin\Debug\netcoreapp3.1\FileStreamAndStreamReader.dll
+C:\Users\pablo\source\repos\FileStreamAndStreamReader\FileStreamAndStreamReader\bin\Debug\netcoreapp3.1\FileStreamAndStreamReader.pdb
+C:\Users\pablo\source\repos\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\netcoreapp3.1\FileStreamAndStreamReader.csprojAssemblyReference.cache
+C:\Users\pablo\source\repos\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\netcoreapp3.1\FileStreamAndStreamReader.AssemblyInfoInputs.cache
+C:\Users\pablo\source\repos\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\netcoreapp3.1\FileStreamAndStreamReader.AssemblyInfo.cs
+C:\Users\pablo\source\repos\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\netcoreapp3.1\FileStreamAndStreamReader.dll
+C:\Users\pablo\source\repos\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\netcoreapp3.1\FileStreamAndStreamReader.pdb

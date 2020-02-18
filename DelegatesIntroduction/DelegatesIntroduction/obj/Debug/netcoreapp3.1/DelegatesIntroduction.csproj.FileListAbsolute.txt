@@ -1,0 +1,11 @@
+C:\Users\pablo\source\repos\DelegatesIntroduction\DelegatesIntroduction\bin\Debug\netcoreapp3.1\DelegatesIntroduction.exe
+C:\Users\pablo\source\repos\DelegatesIntroduction\DelegatesIntroduction\bin\Debug\netcoreapp3.1\DelegatesIntroduction.deps.json
+C:\Users\pablo\source\repos\DelegatesIntroduction\DelegatesIntroduction\bin\Debug\netcoreapp3.1\DelegatesIntroduction.runtimeconfig.json
+C:\Users\pablo\source\repos\DelegatesIntroduction\DelegatesIntroduction\bin\Debug\netcoreapp3.1\DelegatesIntroduction.runtimeconfig.dev.json
+C:\Users\pablo\source\repos\DelegatesIntroduction\DelegatesIntroduction\bin\Debug\netcoreapp3.1\DelegatesIntroduction.dll
+C:\Users\pablo\source\repos\DelegatesIntroduction\DelegatesIntroduction\bin\Debug\netcoreapp3.1\DelegatesIntroduction.pdb
+C:\Users\pablo\source\repos\DelegatesIntroduction\DelegatesIntroduction\obj\Debug\netcoreapp3.1\DelegatesIntroduction.csprojAssemblyReference.cache
+C:\Users\pablo\source\repos\DelegatesIntroduction\DelegatesIntroduction\obj\Debug\netcoreapp3.1\DelegatesIntroduction.AssemblyInfoInputs.cache
+C:\Users\pablo\source\repos\DelegatesIntroduction\DelegatesIntroduction\obj\Debug\netcoreapp3.1\DelegatesIntroduction.AssemblyInfo.cs
+C:\Users\pablo\source\repos\DelegatesIntroduction\DelegatesIntroduction\obj\Debug\netcoreapp3.1\DelegatesIntroduction.dll
+C:\Users\pablo\source\repos\DelegatesIntroduction\DelegatesIntroduction\obj\Debug\netcoreapp3.1\DelegatesIntroduction.pdb
