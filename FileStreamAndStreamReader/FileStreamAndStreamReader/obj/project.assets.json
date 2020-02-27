@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pablo\\source\\repos\\FileStreamAndStreamReader\\FileStreamAndStreamReader\\FileStreamAndStreamReader.csproj",
+      "projectUniqueName": "C:\\Users\\pablo\\source\\repos\\C_SHARP_PROGRAMMING\\FileStreamAndStreamReader\\FileStreamAndStreamReader\\FileStreamAndStreamReader.csproj",
       "projectName": "FileStreamAndStreamReader",
-      "projectPath": "C:\\Users\\pablo\\source\\repos\\FileStreamAndStreamReader\\FileStreamAndStreamReader\\FileStreamAndStreamReader.csproj",
+      "projectPath": "C:\\Users\\pablo\\source\\repos\\C_SHARP_PROGRAMMING\\FileStreamAndStreamReader\\FileStreamAndStreamReader\\FileStreamAndStreamReader.csproj",
       "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pablo\\source\\repos\\FileStreamAndStreamReader\\FileStreamAndStreamReader\\obj\\",
+      "outputPath": "C:\\Users\\pablo\\source\\repos\\C_SHARP_PROGRAMMING\\FileStreamAndStreamReader\\FileStreamAndStreamReader\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
